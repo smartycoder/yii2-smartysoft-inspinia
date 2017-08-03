@@ -4,7 +4,7 @@
     "type": "yii2-extension",
     "keywords": ["yii2","InspiniaTemplate"],
     "license": "BSD-3-Clause",
-    "version": "2.5",
+    "version": "2.4",
     "authors": [
         {
             "name": "smartysoft",
@@ -20,11 +20,6 @@
     "autoload": {
         "psr-4": {
             "smartysoft\\inspinia\\": ""
-        }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.5.x-dev"
         }
     }
 }
