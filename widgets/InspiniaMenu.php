@@ -1,5 +1,5 @@
 <?php
-namespace smartysoft\widgets;
+namespace smartysoft\inspinia\widgets;
 
 use Yii;
 use yii\helpers\ArrayHelper;

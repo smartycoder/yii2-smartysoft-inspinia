@@ -1,6 +1,6 @@
 <?php
 
-namespace smartysoft\web;
+namespace smartysoft\inspinia\web;
 
 use yii\helpers\FileHelper;
 use yii\web\AssetBundle;
