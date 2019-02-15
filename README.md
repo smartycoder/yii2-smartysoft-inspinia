@@ -28,4 +28,4 @@ Usage
 Once the extension is installed, simply use it in your code by adding this to your view or layout :
 
 ```php
-<?php smartysoft\web\InspiniaAsset::register($this); ?>
+<?php smartysoft\inspinia\web\InspiniaAsset::register($this); ?>
